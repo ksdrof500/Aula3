@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Aula3</string>
+    <string name="company_title">Corporação</string>
+    <string name="company_description">%1s foi fundada por %2s em %3s. Tem agora %4s funcionários. %5s plataformas de lançamento e está avaliado em USD %6s</string>
+
+    <string name="company_data_from">Dias a partir de agora</string>
+    <string name="company_data_since">Dias desde agora</string>
+
+    <string name="launches_title">LANÇAMENTOS</string>
+    <string name="launches_item_mission">Missão</string>
+    <string name="launches_item_date_time">Data/hora</string>
+    <string name="launches_item_rocket">Foguete</string>
+    <string name="launch_success">Lançamento com sucesso</string>
+    <string name="launch_fail">Lançamento com problema</string>
+    <string name="launch_image">Imagem do foguete</string>
+    <string name="year">Ano</string>
+    <string name="asc">ASC</string>
+    <string name="desc">DESC</string>
+    <string name="youtube">YouTube</string>
+    <string name="wiki">Wikipedia</string>
+    <string name="error_year">Data é obrigátório</string>
+    <string name="feedback_error">Erro, tente novamente</string>
+    <string name="feedback_empty">Nenhum lançamento encontrado</string>
+    <string name="feedback_error_image">Imagem de erro</string>
+    <string name="feedback_empty_image">Imagem de vázio</string>
+</resources>

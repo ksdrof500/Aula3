@@ -1,0 +1,40 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Aula3" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Aula3" parent="Base.Theme.Aula3" />
+
+    <style name="ActionSheet">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/text_item</item>
+        <item name="android:drawablePadding">@dimen/drawablePadding</item>
+        <item name="android:textSize">@dimen/textSizeHigh</item>
+    </style>
+
+    <style name="TitleHome">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/bg_gradient_without_radius</item>
+        <item name="android:textSize">@dimen/textSizeMedium</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+        <item name="android:padding">@dimen/padding_card</item>
+    </style>
+
+    <style name="TitleItemLaunch">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/text_item</item>
+        <item name="android:textSize">@dimen/textSizeRegular</item>
+    </style>
+
+    <style name="DescribeItemLaunch" parent="TitleItemLaunch">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:textSize">@dimen/textSizeLess</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+</resources>

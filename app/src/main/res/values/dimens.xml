@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_default">16dp</dimen>
+    <dimen name="margin_recycler">8dp</dimen>
+    <dimen name="padding_card">16dp</dimen>
+    <dimen name="corners">4dp</dimen>
+    <dimen name="drawablePadding">12dp</dimen>
+    <dimen name="textSizeLess">12sp</dimen>
+    <dimen name="textSizeRegular">14sp</dimen>
+    <dimen name="textSizeMedium">16sp</dimen>
+    <dimen name="textSizeHigh">18sp</dimen>
+    <dimen name="textSizeFeedback">24sp</dimen>
+    <dimen name="popup_width">200dp</dimen>
+    <dimen name="popup_height">400dp</dimen>
+</resources>
